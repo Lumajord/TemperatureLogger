@@ -6,3 +6,7 @@ Uses the Real Time Clock DS3231 for time measurement and the DHT22 AM2302 sensor
 The project also contains a python script to evaluate the data.
 
 <img src="https://github.com/Lumajord/TemperatureLogger/blob/main/datalogger.png" width="720">
+
+## How to use
+Flash the .ino file to the microcontroller and supply it with power.
+Take the SD card out and load the data to a computer. Evaluate said data with the python script.
